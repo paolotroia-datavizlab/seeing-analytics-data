@@ -1,0 +1,10 @@
+# Local settings: your project ID never leaves your machine.
+.env
+
+# Python and Jupyter leftovers
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# A personal study notebook, not part of the published analysis
+notebooks/ga4-dataset-exploration.ipynb
