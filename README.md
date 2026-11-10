@@ -7,6 +7,9 @@ explains web analytics metrics with interactive visuals.
 
 Each explorable has its own folder with its notebook, its queries (`sql/`) and their results (`csv/`).
 
+- [`sessions-dont-add-up/`](sessions-dont-add-up): [When sessions don't add up](https://seeinganalytics.com/reports/sessions-dont-add-up)
+- [`active-users/`](active-users): [Active Users](https://seeinganalytics.com/metrics/active-users)
+
 ## Run it yourself
 
 1. Create a project in the free BigQuery sandbox.
